@@ -1,0 +1,2 @@
+Wiadomość zapisana w pliku message.txt
+dodaję kolejną linijkę
